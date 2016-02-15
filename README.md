@@ -2,4 +2,4 @@
 A basic template for setting up a quick backbone.js driven web page.
 
 ### Source:
-[Developing Backbone.js Applications](https://addyosmani.com/backbone-fundamentals/#getting-set-up){:target="_blank"}
+<a href="https://addyosmani.com/backbone-fundamentals/#getting-set-up" target="_blank">Developing Backbone.js Applications</a>
